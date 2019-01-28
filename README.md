@@ -8,7 +8,6 @@ if creating a new EBS volume, the install will fail until the drive is formatted
 
 
 **still to add**
-
-route53 entry for jenkins server*
+*route53 entry for jenkins server*
 
 *further parameterization*
